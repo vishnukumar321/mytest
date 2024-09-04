@@ -102,7 +102,7 @@
     
   </head>
   <?php
-  print_r($_SERVER);
+
   ?>
   <body class="d-flex align-items-center py-4 bg-body-tertiary">
     <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -181,7 +181,9 @@
     <p class="mt-5 mb-3 text-body-secondary">&copy; 2017–2024</p>
   </form>
 </main>
+
 <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
 
     </body>
+
 </html>
